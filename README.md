@@ -10,7 +10,9 @@ The release of this software is being released to bring the HABA Online applicat
 
 ## Testing Approach
 
-The testing approach for this release shall be done in a fashion that will accommodate the current functionality in  products being developed for Shopping Cart on SIT and UAT Testing will be designed to encompass the following. ►Testing will cover functionality testing for changes through the use of the test interface. This will validate base functions of the new code as it relates to the standard  model of presentation for data and user entered data.	
+The testing approach for this release shall be done in a fashion that will accommodate the current functionality in  products being developed for Shopping Cart on SIT and UAT Testing will be designed to encompass the following.
+
+Testing will cover functionality testing for changes through the use of the test interface. This will validate base functions of the new code as it relates to the standard  model of presentation for data and user entered data.	
 
 ## Test Environment Specification
 
